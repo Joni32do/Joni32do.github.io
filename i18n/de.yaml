@@ -1,0 +1,73 @@
+## Meta tags
+- id: "meta_title"
+  translation: "Adritian - ein performantes hugo Thema von Adrián Moreno"
+- id: "meta_description"
+  translation: "Dieses hugo theme basiert auf Bootstrap und hat einige Features für Portfolios"
+- id: "meta_keywords"
+  translation: "hugo, theme, bootstrap, adritian, adrian moreno, persönliche Website, Portfolio, single page application"
+- id: "meta_author"
+  translation: "Adrián Moreno Peña"
+- id: "meta_image"
+  translation: "/img/general/og-image.jpg"
+
+## Header
+
+- id: "logo_alt"
+  translation: "Adritian logo"
+
+- id: "logo_text1"
+  translation: "Super cooler"
+
+- id: "logo_text2"
+  translation: "Name"
+
+## General
+- id: "skipToMainContent"
+  translation: "Weiter zum Inhalt"
+
+- id: "toggle_navigation"
+  translation: "Menü ausblenden"
+
+## Footer
+- id: "footer_notice"
+  translation: "© Adritian. Free Hugo theme by Adrián Moreno Peña."
+
+- id: "language"
+  translation: "Sprache"
+
+- id: "toggle_theme"
+  translation: "Ansicht"
+
+- id: "theme_light"
+  translation: "Hell"
+- id: "theme_dark"
+  translation: "Dunkel"
+- id: "theme_auto"
+  translation: "Auto"
+
+## Homepage head title
+- id: "head_title"
+  translation: "Mein Portfolio"
+
+- id: "head_description"
+  translation: "Egal."
+
+
+## Blog
+- id: "read_more"
+  translation: "Mehr lesen"
+
+- id: "published_on"
+  translation: "Veröffentlich an "
+
+- id: "continue_reading"
+  translation: "Lesen fortsetzen"
+
+## 404 Page
+- id: "404_title"
+  translation: "Seite nicht gefunden"
+- id: "404_description"  
+  translation: "Sorry, aber die Seite konnte nicht gefunden werden."
+- id: "404_button"
+  translation: "Zur Startseite"
+
