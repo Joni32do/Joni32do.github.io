@@ -9,4 +9,8 @@ duration: "2024-2025"
 ---
 ## Spectrum Surrogates for Electromagnetic Compatibility
 
-Using the alignment of specific frequencies, Polynomial Chaos Expansion and Gaussian Process Regression is used to perform sensitivity analysis and uncertainty quantification of electromagnetic compatibility simulations.
+* Frequency response via high-dimensional embedding via principal component analysis (PCA)
+* Alignment of specific special frequencies, refered to as warping 
+* Surrogates with Polynomial Chaos Expansion (PCE) and Gaussian Process Regression (GPR) 
+* sensitivity analysis with Sobol indices
+* Application to electromagnetic compatibility simulations.

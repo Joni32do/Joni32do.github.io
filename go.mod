@@ -1,4 +1,4 @@
-module anything
+module github.com/Joni32do/Joni32do.github.io
 
 go 1.24.6
 

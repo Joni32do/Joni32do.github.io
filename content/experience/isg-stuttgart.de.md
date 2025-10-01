@@ -7,6 +7,7 @@ company: "Industrielle Steuerungstechnik GmbH"
 location: "Stuttgart, Deutschland"
 duration: "2023-2024"
 ---
-## Die Welt reparieren, ein Byte nach dem anderen
-
-Der Beginn einer großartigen Karriere.
+## ISG
+* Parameteridentifikation eines 6-Achsen Industrieroboters
+* Arbeiten mit der Software für Digitale Zwillinge (ISG-virtuos)
+* Schnittstelle von verschiedenen Digitalen Zwillingen mithilfe der Asset-Administration-Shell (AAS)

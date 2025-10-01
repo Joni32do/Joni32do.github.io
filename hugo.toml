@@ -77,7 +77,7 @@ sections = [
   "newsletter",
 ]
 # If you want to display an image logo in the header, you can add it here
-logo = '/img/hugo.svg'
+logo = '/img/logo.svg'
 
 homepageExperienceCount = 6
 
@@ -129,10 +129,10 @@ weight = 0
 name = "Home"
 URL = "/"
 weight = 1
-[[languages.en.menus.header]]
-name = 'About'
-URL = '#about'
-weight = 2
+# [[languages.en.menus.header]]
+# name = 'About'
+# URL = '#about'
+# weight = 2
 [[languages.en.menus.header]]
 name = 'Skills'
 URL = '/skills'
@@ -143,11 +143,11 @@ weight = 3
 # weight = 4
 [[languages.en.menus.header]]
 name = "Experience"
-URL = "#experience"
+URL = "/experience"
 weight = 4
 
 [[languages.en.menus.header]]
-name = "How to"
+name = "Blog"
 URL = "/blog"
 weight = 5
 
@@ -168,10 +168,10 @@ name = "Home"
 URL = "/"
 weight = 1
 
-[[languages.en.menus.footer]]
-name = "About"
-URL = "#about"
-weight = 2
+# [[languages.en.menus.footer]]
+# name = "About"
+# URL = "#about"
+# weight = 2
 
 [[languages.en.menus.footer]]
 name = "Portfolio"
@@ -196,23 +196,13 @@ name = "Start"
 URL = "/de/"
 weight = 1
 [[languages.de.menus.header]]
-name = 'Über mich'
-URL = '/de/#portfolio'
-weight = 2
-[[languages.de.menus.header]]
 name = 'Skills'
 URL = '/de/skills'
 weight = 3
 [[languages.de.menus.header]]
-name = 'Arbeit'
-URL = '/de/#arbeit'
+name = 'Erfahrung'
+URL = '/de/#erfahrung'
 weight = 4
-
- [[languages.de.menus.header]]
- name = "Erfahrung"
- URL = "/de/#experience"
- weight = 5
-
 [[languages.de.menus.header]]
 name = "Blog"
 URL = "/de/blog"

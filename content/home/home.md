@@ -10,13 +10,14 @@ draft = false
     subtitle="Simulation Engineer"
     buttonText="Get In Touch"
     description="Welcome to my professional portfolio! I'm a passionate in science and computing with expertise in uncertainty quantification. I love creating innovative solutions and solving complex problems. Feel free to explore my work and connect with me through the social links below."
-    imgSrc="images/showcase/wink_joni.jpg"
+    imgSrc="images/showcase/wink_joni_web.png"
     imgScale="0.5"
  >}}
 
 {{< platform-links >}}
     {{< link icon="linkedin" url="https://www.linkedin.com/in/jonathan-schnitzler-163715208" >}}
     {{< link icon="square-github" url="https://github.com/joni32do" >}}
+    <!-- {{< link icon="rss" url="/index.xml" >}} -->
     <!-- {{< link icon="square-twitter" url="https://twitter.com/yourusername" >}} -->
     <!-- {{< link icon="square-facebook" url="https://facebook.com/yourpage" >}} -->
     <!-- {{< link icon="instagram" url="https://www.instagram.com/yourusername/" >}} -->
@@ -37,7 +38,7 @@ draft = false
  >}}
 
 {{< education-list
-    title="Formal Education (education-list)" >}}
+    title="Formal Education" >}}
 
 {{< experience-section
     title="My Professional Journey"
@@ -52,7 +53,7 @@ draft = false
 >}}
 
 {{< experience-list
-    title="Experience (as list)"
+    title="Experience"
     padding="false" >}}
 
 <!-- 

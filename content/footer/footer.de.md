@@ -7,42 +7,29 @@ draft = false
 
 {{< contact-section
     sectionId="contacto"
-    title="Contáctame" 
-    contact_form_name="Tu nombre"
-    contact_form_email="Tu correo"
-    contact_form_message="Tu mensaje"
-    contact_button="Enviar mensaje"
-    contact_phone_title="Mi teléfono"
+    title="Contact me" 
+    contact_form_name="Name"
+    contact_form_email="E-Mail"
+    contact_form_message="Nachricht"
+    contact_button="Nachricht senden"
+    contact_phone_title="Telefon"
     contact_phone_number="<a href='tel:+555666777'>555 666 777</a>"
-    contact_email_title="Mi correo"
-    contact_email_email="demo@demosite.com"
-    contact_address_title="Mi ubicación"
-    contact_address_address="🇩🇰 Denmark"
-    form_action="https://formspree.io/f/mail@example.com"
+    contact_email_title="E-Mail"
+    contact_email_email="jonathanschnitzler@web.de"
+    contact_address_title="Adresse"
+    contact_address_address="Bretten Kraichgaustr. 4, Germany"
+    form_action="https://formspree.io/f/xovkdgve"
     form_method="POST"
 >}}
 
-{{< newsletter-section 
-    newsletter_title="Subscríbete"
-    newsletter_placeholder="Tu correo"
-    newsletter_button="Subscríbete"
-    newsletter_success_message="Gracias por suscribirte!"
-    newsletter_error_message="Algo ha fallado, por favor inténtalo de nuevo."
-    newsletter_note="Respetamos tu privacidad."
+<!-- {{< newsletter-section 
+    newsletter_title="Abonnieren"
+    newsletter_placeholder="Deine E-Mail"
+    newsletter_button="Abonnieren"
+    newsletter_success_message="Danke für deine Anmeldung!"
+    newsletter_error_message="Etwas ist schief gelaufen, bitte versuche es erneut."
+    newsletter_note="Wir respektieren deine Privatsphäre."
     form_action="/"
     form_method="POST"
->}}
+>}} -->
 
-
-{{< text-section
-title="Contenido extra"
-centered="true"
->}}
-
-Puedes añadir contenido adicional después de los bloques de `section`.
-
-Aquí puedes ser creativo, utilizar otros shortcodes, ... O dejarlo vacío.
-
-Para añadir texto que quede bien en el pie, puedes utilizar el shortcode `text-section`.
-
-{{< /text-section >}}

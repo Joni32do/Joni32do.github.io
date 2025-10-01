@@ -7,6 +7,7 @@ company: "Industrielle Steuerungstechnik GmbH"
 location: "Stuttgart, Deutschland"
 duration: "2023-2024"
 ---
-## Changing Tides
 
-TODO:
+* Parameter identification of a 6-axis industrial robot
+* Working with the software for digital twins (ISG-virtuos)
+* Interface of different digital twins using the Asset Administration Shell (AAS)
