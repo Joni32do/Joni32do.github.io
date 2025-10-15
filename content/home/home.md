@@ -10,7 +10,7 @@ draft = false
     subtitle="Simulation Engineer"
     buttonText="Get In Touch"
     description="Welcome to my professional portfolio! I'm a passionate in science and computing with expertise in uncertainty quantification. I love creating innovative solutions and solving complex problems. Feel free to explore my work and connect with me through the social links below."
-    imgSrc="images/showcase/wink_joni_web.png"
+    imgSrc="images/showcase/JSchnitzler_Profile.jpg"
     imgScale="0.5"
  >}}
 
@@ -32,8 +32,8 @@ draft = false
     button_icon="icon-user"
     button_text="View My Skills"
     button_url="/skills"
-    imgSrc="images/about/user-picture.png"
-    imgScale="0.8"
+    imgSrc="images/showcase/wink_joni_web.png"
+    imgScale="1.0"
     text_align="center"
  >}}
 

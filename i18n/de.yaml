@@ -16,10 +16,10 @@
   translation: "Adritian logo"
 
 - id: "logo_text1"
-  translation: "Schnitzler"
+  translation: ""
 
 - id: "logo_text2"
-  translation: "Joni"
+  translation: ""
 
 ## General
 - id: "skipToMainContent"
@@ -39,9 +39,9 @@
   translation: "Ansicht"
 
 - id: "theme_light"
-  translation: "Hell"
+  translation: "Light"
 - id: "theme_dark"
-  translation: "Dunkel"
+  translation: "Dark"
 - id: "theme_auto"
   translation: "Auto"
 

@@ -29,8 +29,9 @@ As indicated in the Terminal, the website will be available at `http://localhost
 TODO: 
 - [ ] Add full experience entries
 - [ ] Customize Start (larger icons, centrallized Image with text beneath ... Space is free, take it)
-- [ ] Logo
+- [ ] Logo (+ Dark Version)
 - [ ] Images
+- [ ] 
 
 ### Projects
 Projects for my portfolio, which I will describe in my blog. Additionally I think about using `.html` exports from `ipynb` notebooks.

@@ -16,10 +16,10 @@
   translation: "My logo"
 
 - id: "logo_text1"
-  translation: "Schnitzler"
+  translation: ""
 
 - id: "logo_text2"
-  translation: "Joni"
+  translation: ""
 
 ## General
 - id: "skipToMainContent"

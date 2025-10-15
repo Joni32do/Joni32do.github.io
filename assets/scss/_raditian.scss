@@ -1350,7 +1350,7 @@ a.nav-link::after {
     align-items: center;
     position: relative;
     margin-bottom: -20px;
-    padding-top: 120px;
+    padding-top: 240px;
 }
 
 .rad-showcase__bg {
@@ -1360,13 +1360,13 @@ a.nav-link::after {
     align-items: center;
     height: 100%;
     position: absolute;
-    left: 50%;
+    left: 0;
     z-index: 0;
     display: none;
 }
 
 .rad-showcase__bg img {
-    width: 100%;
+    width: 90%;
     margin-top: 90px;
     height: 100%;
     max-height: 721px;
@@ -1434,11 +1434,12 @@ a.nav-link::after {
     text-align: center;
 }
 
-@media (min-width: 992px) {
-    .platform-links {
-        /* The margin-right is no longer needed with text-align: center */
-    }
-}
+// @media (min-width: 992px) {
+//     .platform-links {
+//         /* The margin-right is no longer needed with text-align: center */
+//     }
+// }
+
 .platform-links [class^="icon-"] {
     margin-right: 5px;
     font-size: 50px;
