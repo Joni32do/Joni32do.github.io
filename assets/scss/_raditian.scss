@@ -1430,19 +1430,20 @@ a.nav-link::after {
     width: 100%;
 }
 .platform-links {
-    margin-top: 40px;
-    margin-right: -5px;
+    margin-top: 28px;
+    text-align: center;
 }
 
 @media (min-width: 992px) {
     .platform-links {
-        margin-right: -10px;
+        /* The margin-right is no longer needed with text-align: center */
     }
 }
 .platform-links [class^="icon-"] {
     margin-right: 5px;
-    font-size: 17px;
+    font-size: 50px;
     color: #000;
+    
 }
 .platform-links [class^="icon-"]:hover::before {
     -webkit-transition-duration: 0.15s;
@@ -1459,7 +1460,7 @@ a.nav-link::after {
 
 @media (min-width: 992px) {
     .platform-links [class^="icon-"] {
-        font-size: 19px;
+        font-size: 28px;
         margin-right: 10px;
     }
 }

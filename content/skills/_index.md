@@ -7,15 +7,15 @@ skill_categories:
   - name: "Programming Languages"
     skills:
       - name: "Python"
-        level: 30
+        level: 80
         years: "5"
         description: "numpy, scikit-learn, PyTorch, matplotlib, gym, pandas"
       - name: "C++"
-        level: 20
+        level: 60
         years: "2"
         description: "CMake, MPI, Doxygen"
       - name: "Matlab"
-        level: 25
+        level: 70
         years: "5"
         description: "Simulink, toolboxes, GUI"
       # - name: "Swift/Objective-C"
@@ -29,19 +29,19 @@ skill_categories:
   - name: "Technologies & Frameworks"
     skills:
       - name: "Hugo and Web-Development"
-        level: 10
+        level: 50
         years: "1"
         description: "Web and cross-platform mobile apps"
       - name: "Linux"
-        level: 30
+        level: 70
         years: "3"
         description: "bash, debian, ubuntu, docker"
       - name: "Git & GitHub"
-        level: 30
+        level: 80
         years: "5"
         description: "Version control, CI/CD, GitHub Actions"
       - name: "LaTeX"
-        level: 30
+        level: 80
         years: "5"
         description: "Scientific writing, reports, presentations"
 ---

@@ -257,7 +257,7 @@ URL = "/fr/"
 weight = 1
 [[languages.fr.menus.header]]
 name = 'About'
-URL = '#about'
+URL = '/de/#about'
 weight = 2
 [[languages.fr.menus.header]]
 name = 'Compétences'
