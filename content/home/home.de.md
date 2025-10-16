@@ -24,9 +24,9 @@ draft = false
 
 {{< about-section
     title="Über mich"
-    content="Das wunderbare ist, dass mithilfe des internationalisierungs (i18n) features von Hugo, es für mich ein leichtes ist diese Website in mehreren Sprachen zu erzeugen. Da Englisch der Standard ist, werden vermutlich die wenigsten diese Übersetzung jemals anklicken. Da du dies hier aber jetzt liest, bist du die Ausnahme! Viel Spaß bei diesem persönlichen Einblick. Da für mich Deutsch meine Muttersprache ist, werde ich diese Seite übersetzung hier nicht nur auf Deutsch, sondern auch mit einer persönlichen Note versehen. Ich habe niemals garantiert, dass die Übersetzungen inhaltlich 1:1 übereinstimmen. Das ist in Zeiten von 1:1 übersetzung auch gar nicht notwendig. Viel Spaß bei diesem persönlichen Touch in meinen Lebenslauf."
+    content="Das wunderbare ist, dass mithilfe des internationalisierungs (i18n) features von Hugo, es für mich ein leichtes ist diese Website in mehreren Sprachen zu erzeugen. Da Englisch der Standard ist, werden vermutlich die wenigsten diese Übersetzung jemals anklicken. Da du dies hier aber jetzt liest, bist du die Ausnahme! Viel Spaß bei diesem persönlichen Einblick. Da für mich Deutsch meine Muttersprache ist, werde ich diese Seite übersetzung hier nicht nur auf Deutsch, sondern auch mit einer persönlichen Note versehen. Ich habe niemals garantiert, dass die Übersetzungen inhaltlich 1:1 übereinstimmen. Das ist in Zeiten von sofortigen Übersetzung mithilfe digitaler Tools auch gar nicht notwendig. Viel Spaß bei diesem persönlichen Touch in meinen Lebenslauf."
     about_button="Button Text"
-    imgSrc="images/about/user-picture.png"
+    imgSrc="images/showcase/wink_joni_web.png"
     imgScale="0.5"
     sectionId="sobre-mi"
  >}}

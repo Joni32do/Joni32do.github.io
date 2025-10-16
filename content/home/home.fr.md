@@ -27,7 +27,7 @@ draft = false
     button_icon="info"
     button_text="Vous pouvez modifier ceci"
     button_url="https://www.google.com"
-    imgSrc="images/about/user-picture.png"
+    imgSrc="images/showcase/wink_joni_web.png"
     imgScale="0.5"
     sectionId="a-propos"
 >}}

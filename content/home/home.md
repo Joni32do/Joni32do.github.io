@@ -33,7 +33,7 @@ draft = false
     button_text="View My Skills"
     button_url="/skills"
     imgSrc="images/showcase/wink_joni_web.png"
-    imgScale="1.0"
+    imgScale="0.5"
     text_align="center"
  >}}
 

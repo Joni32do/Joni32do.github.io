@@ -4,7 +4,7 @@ title: 'Universität Stuttgart'
 draft: false # set to "true" if you want to hide the content
 
 university: "Universität Stuttgart"
-year: "2019-2023"
+year: "2023-2025"
 degree: "Master der Simulation Technology, Grade: 1.2"
 
 ---

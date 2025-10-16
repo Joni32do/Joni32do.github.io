@@ -506,6 +506,10 @@ input[type="email"]::placeholder {
     margin-left: -40px;
     margin-right: -40px;
     margin-top: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
 }
 
 .about__profile-picture img {
@@ -1384,7 +1388,7 @@ a.nav-link::after {
         right: -50px;
     }
     .rad-showcase__bg img {
-        width: auto;
+        width: 50%;
     }
 }
 
@@ -1485,8 +1489,14 @@ a.nav-link::after {
 
 
 .profile-image img {
-    max-inline-size: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    max-inline-size: 60%;
     block-size: auto;
+    
 }
 
 .profile-image img {
