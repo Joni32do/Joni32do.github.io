@@ -16,7 +16,7 @@
   translation: "My logo"
 
 - id: "logo_text1"
-  translation: ""
+  translation: "Jonathan Schnitzler"
 
 - id: "logo_text2"
   translation: ""
@@ -30,7 +30,7 @@
 
 ## Footer
 - id: "footer_notice"
-  translation: "© Adritian. Free Hugo theme by Adrián Moreno Peña."
+  translation: "Customized Hugo Theme inspired by Adritian."
 
 - id: "language"
   translation: "Language"

@@ -17,8 +17,7 @@ draft = false
 {{< platform-links sectionId="social" >}}
     {{< link icon="linkedin" url="https://www.linkedin.com/in/jonathan-schnitzler-163715208" >}}
     {{< link icon="square-github" url="https://github.com/joni32do" >}}
-    {{< link icon="square-xing" url="https://www.adrianmoreno.info/" >}}
-
+    <!-- {{< link icon="square-xing" url="https://www.adrianmoreno.info/" >}} -->
 {{< /platform-links >}}
 {{< /showcase-section >}}
 

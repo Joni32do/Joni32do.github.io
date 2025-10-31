@@ -12,12 +12,13 @@ draft = false
     imgSrc="images/showcase/wink_joni_web.png"
     imgScale="0.5"
     sectionId="section-vedette"
->}}
+ >}}
 
 {{< platform-links sectionId="liens-plateforme" >}}
     {{< link icon="linkedin" url="https://www.linkedin.com/in/jonathan-schnitzler-163715208" >}}
     {{< link icon="square-github" url="https://github.com/joni32do" >}}
 {{< /platform-links >}}
+
 {{< /showcase-section >}}
 
 {{< about-section
@@ -30,7 +31,7 @@ draft = false
     imgSrc="images/showcase/wink_joni_web.png"
     imgScale="0.5"
     sectionId="a-propos"
->}}
+ >}}
 
 {{< education-list
     title="Formation académique"

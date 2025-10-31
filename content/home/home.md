@@ -6,8 +6,8 @@ draft = false
 
 
 {{< showcase-section
-    title="Jonathan Schnitzler"
-    subtitle="Simulation Engineer"
+    title="Welcome"
+    subtitle="to my professional portfolio"
     buttonText="Get In Touch"
     description="Welcome to my professional portfolio! I'm a passionate in science and computing with expertise in uncertainty quantification. I love creating innovative solutions and solving complex problems. Feel free to explore my work and connect with me through the social links below."
     imgSrc="images/showcase/JSchnitzler_Profile.jpg"
