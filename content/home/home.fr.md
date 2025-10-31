@@ -15,10 +15,11 @@ draft = false
  >}}
 
 {{< platform-links sectionId="liens-plateforme" >}}
-    {{< link icon="linkedin" url="https://www.linkedin.com/in/jonathan-schnitzler-163715208" >}}
     {{< link icon="square-github" url="https://github.com/joni32do" >}}
+    {{< link icon="linkedin" url="https://www.linkedin.com/in/jonathan-schnitzler-163715208" >}}
+    {{< link icon="square-xing" url="https://www.xing.com/profile/Jonathan_Schnitzler057925/web_profiles" >}}
+    {{< link icon="instagram" url="https://www.instagram.com/Joni32_do/" >}}
 {{< /platform-links >}}
-
 {{< /showcase-section >}}
 
 {{< about-section

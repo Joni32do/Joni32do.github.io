@@ -4,7 +4,6 @@ type = "home"
 draft = false
 +++
 
-
 {{< showcase-section
     title="Welcome"
     subtitle="to my professional portfolio"
@@ -15,15 +14,14 @@ draft = false
  >}}
 
 {{< platform-links >}}
-    {{< link icon="linkedin" url="https://www.linkedin.com/in/jonathan-schnitzler-163715208" >}}
     {{< link icon="square-github" url="https://github.com/joni32do" >}}
+    {{< link icon="linkedin" url="https://www.linkedin.com/in/jonathan-schnitzler-163715208" >}}
+    {{< link icon="instagram" url="https://www.instagram.com/Joni32_do/" >}}
+    {{< link icon="square-xing" url="https://www.xing.com/profile/Jonathan_Schnitzler057925/web_profiles" >}}
     <!-- {{< link icon="rss" url="/index.xml" >}} -->
     <!-- {{< link icon="square-twitter" url="https://twitter.com/yourusername" >}} -->
     <!-- {{< link icon="square-facebook" url="https://facebook.com/yourpage" >}} -->
-    <!-- {{< link icon="instagram" url="https://www.instagram.com/yourusername/" >}} -->
-    <!-- Add more social links as needed -->
 {{< /platform-links >}}
-
 {{< /showcase-section >}}
 
 {{< about-section
