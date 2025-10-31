@@ -5,11 +5,11 @@ draft = false
 +++
 
 {{< showcase-section
-    title="Jonathan Schnitzler"
-    subtitle="Ingénieur en simulation"
+    title="Bienvenue"
+    subtitle="sur mon site"
     buttonText="Courriel"
     description="Bienvenue dans mon portfolio professionnel ! Je suis passionné par la science et l'informatique avec une expertise en quantification des incertitudes. J'adore créer des solutions innovantes et résoudre des problèmes complexes. N'hésitez pas à explorer mon travail et à me contacter via les liens sociaux ci-dessous. J'apprends également le français, donc si vous voyez des erreurs, n'hésitez pas à me le faire savoir !"
-    imgSrc="images/showcase/wink_joni_web.png"
+    imgSrc="images/showcase/JSchnitzler_Profile.jpg"
     imgScale="0.5"
     sectionId="section-vedette"
  >}}
@@ -23,16 +23,17 @@ draft = false
 
 {{< about-section
     title="À propos de moi"
-    content="En utilisant la <code>syntaxe HTML</code>"
+    content="J'apprends le français en ce moment, donc si vous voyez des erreurs, n'hésitez pas à me le faire savoir !"
     about_button="Texte du bouton"
     button_icon="info"
-    button_text="Vous pouvez modifier ceci"
-    button_url="https://www.google.com"
+    button_text="Surprise moi"
+    button_url="https://de.wikipedia.org/wiki/"
     imgSrc="images/showcase/wink_joni_web.png"
     imgScale="0.5"
     sectionId="a-propos"
  >}}
 
+<!-- 
 {{< education-list
     title="Formation académique"
     sectionId="formation-academique" >}}
@@ -48,5 +49,5 @@ draft = false
     button3_text="Tout voir"
     button3_url="/fr/experience"
     sectionId="experience-professionnelle"
->}}
+>}} -->
 

@@ -66,6 +66,17 @@
         }
     }
 
+    // Increase spacing between nav items on desktop
+    @media (min-width: 992px) {
+        .navbar-nav .nav-item {
+            margin-left: 1rem;
+        }
+
+        .navbar-nav .nav-item:first-child {
+            margin-left: 0;
+        }
+    }
+
     .navbar-nav-svg {
         display: inline-block;
         vertical-align: -.125rem;

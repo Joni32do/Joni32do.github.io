@@ -257,7 +257,7 @@ weight = 0
 # weight = 1
 
 [[languages.fr.menus.header]]
-name = 'Compétences'
+name = 'Skills'
 URL = '/fr/skills'
 weight = 2
 # [[languages.fr.menus.header]]

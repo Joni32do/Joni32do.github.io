@@ -7,14 +7,15 @@
 
 {{- range .Site.Languages }}
   {{- $langCode := upper .Lang }}
-  {{- $isCurrent := eq .Lang $currentLang }}
+  {{- $targetLang := .Lang }}
+  {{- $isCurrent := eq $targetLang $currentLang }}
   {{- $permalink := "" }}
   
   {{- if $isCurrent }}
     {{- $permalink = $.Permalink }}
   {{- else }}
     {{- range $.Translations }}
-      {{- if eq .Language.Lang .Lang }}
+      {{- if eq .Language.Lang $targetLang }}
         {{- $permalink = .Permalink }}
       {{- end }}
     {{- end }}
@@ -47,6 +48,13 @@
   justify-content: center;
   gap: 0;
   width: 100%;
+}
+
+/* Add spacing to the right of language selector on desktop */
+@media (min-width: 992px) {
+  .language-selector {
+    margin-right: 1rem;
+  }
 }
 
 .lang-separator {

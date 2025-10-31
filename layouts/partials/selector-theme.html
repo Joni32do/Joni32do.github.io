@@ -25,6 +25,12 @@
 
 <script>
 (function() {
+  // Prevent multiple initializations
+  if (window.themeToggleInitialized) {
+    return;
+  }
+  window.themeToggleInitialized = true;
+
   const getStoredTheme = () => localStorage.getItem('theme');
   const setStoredTheme = theme => localStorage.setItem('theme', theme);
   
@@ -62,6 +68,7 @@
   
   const toggleTheme = (e) => {
     e.preventDefault();
+    e.stopPropagation();
     const currentTheme = document.documentElement.getAttribute('data-bs-theme') || 'light';
     const newTheme = currentTheme === 'dark' ? 'light' : 'dark';
     setStoredTheme(newTheme);
@@ -90,9 +97,6 @@
   } else {
     initThemeToggle();
   }
-  
-  // Re-initialize after a short delay to catch any dynamically loaded content
-  setTimeout(initThemeToggle, 100);
   
   // Listen for system theme changes
   window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', e => {
