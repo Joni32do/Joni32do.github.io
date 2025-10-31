@@ -5,11 +5,11 @@ draft = false
 +++
 
 {{< showcase-section
-    title="Jonathan Schnitzler"
-    subtitle="Simulations Ingenieur"
+    title="Willkommen"
+    subtitle="auf meiner Website"
     buttonText="Kontakt"
-    description="Willkommen in meinem professionellen Portfolio! Ich bin leidenschaftlich an Wissenschaft und Informatik interessiert und habe Expertise in der Unsicherheitsquantifizierung. Ich liebe es, innovative Lösungen zu entwickeln und komplexe Probleme zu lösen. Fühlen Sie sich frei, meine Arbeit zu erkunden und über die untenstehenden sozialen Links mit mir in Kontakt zu treten."
-    imgSrc="images/showcase/wink_joni_web.png"
+    description="Ich bin leidenschaftlich an Wissenschaft und Informatik interessiert und habe Expertise in der Unsicherheitsquantifizierung. Ich liebe es, innovative Lösungen zu entwickeln und komplexe Probleme zu lösen."
+    imgSrc="images/showcase/JSchnitzler_Profile.jpg"
     imgScale="0.5"
     sectionId="seccion-destacada"
  >}}

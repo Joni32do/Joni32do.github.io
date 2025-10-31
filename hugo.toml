@@ -124,11 +124,11 @@ languageName = 'English'
 title = ''
 weight = 0
 
-[languages.en.menus]
-[[languages.en.menus.header]]
-name = "Home"
-URL = "/"
-weight = 1
+# [languages.en.menus]
+# [[languages.en.menus.header]]
+# name = "Home"
+# URL = "/"
+# weight = 1
 # [[languages.en.menus.header]]
 # name = 'About'
 # URL = '#about'
@@ -191,10 +191,10 @@ languageDirection = 'ltr'
 languageName = 'Deutsch'
 title = ''
 weight = 0
-[[languages.de.menus.header]]
-name = "Start"
-URL = "/de/"
-weight = 1
+# [[languages.de.menus.header]]
+# name = "Start"
+# URL = "/de/"
+# weight = 1
 [[languages.de.menus.header]]
 name = 'Skills'
 URL = '/de/skills'
@@ -220,10 +220,10 @@ weight = 6
 # URL = "/search"
 # weight = 7
 
-[[languages.de.menus.footer]]
-name = "Start"
-URL = "/"
-weight = 1
+# [[languages.de.menus.footer]]
+# name = "Start"
+# URL = "/"
+# weight = 1
 
 [[languages.de.menus.footer]]
 name = "Über mich"
@@ -251,10 +251,10 @@ title = ''
 weight = 0
 
 [languages.fr.menus]
-[[languages.fr.menus.header]]
-name = "ACCUEIL"
-URL = "/fr/"
-weight = 1
+# [[languages.fr.menus.header]]
+# name = "ACCUEIL"
+# URL = "/fr/"
+# weight = 1
 
 [[languages.fr.menus.header]]
 name = 'Compétences'
