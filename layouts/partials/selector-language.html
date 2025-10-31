@@ -1,0 +1,93 @@
+{{/* Language selector showing all languages - current in bold, others clickable */}}
+{{- $placement := .Scratch.Get "selectorPlacement" }}
+{{- $currentLang := .Site.Language.Lang }}
+
+{{- $languages := slice }}
+{{- $languageData := dict }}
+
+{{- range .Site.Languages }}
+  {{- $langCode := upper .Lang }}
+  {{- $isCurrent := eq .Lang $currentLang }}
+  {{- $permalink := "" }}
+  
+  {{- if $isCurrent }}
+    {{- $permalink = $.Permalink }}
+  {{- else }}
+    {{- range $.Translations }}
+      {{- if eq .Language.Lang .Lang }}
+        {{- $permalink = .Permalink }}
+      {{- end }}
+    {{- end }}
+  {{- end }}
+  
+  {{- $langInfo := dict "code" $langCode "isCurrent" $isCurrent "permalink" $permalink "name" .LanguageName }}
+  {{- $languages = $languages | append $langInfo }}
+{{- end }}
+
+<div id='{{ $placement }}-language-selector' class='language-toggle-all'>
+  {{- range $index, $lang := $languages }}
+    {{- if gt $index 0 }}<span class="lang-separator">/</span>{{ end }}
+    {{- if $lang.isCurrent }}
+      <span class="nav-link lang-current">{{ $lang.code }}</span>
+    {{- else if $lang.permalink }}
+      <a href="{{ $lang.permalink }}" 
+         class="nav-link lang-link" 
+         title="{{ $lang.name }}"
+         aria-label='{{ i18n "language" }}: {{ $lang.name }}'>{{ $lang.code }}</a>
+    {{- else }}
+      <span class="nav-link lang-disabled">{{ $lang.code }}</span>
+    {{- end }}
+  {{- end }}
+</div>
+
+<style>
+.language-toggle-all {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0;
+  width: 100%;
+}
+
+.lang-separator {
+  padding: 0 0.25rem;
+  opacity: 0.5;
+}
+
+.lang-current {
+  font-weight: 700 !important;
+  cursor: default;
+  padding: 0.5rem 0.25rem;
+  color: inherit;
+}
+
+.lang-link {
+  text-decoration: none;
+  transition: opacity 0.2s ease;
+  cursor: pointer;
+  padding: 0.5rem 0.25rem;
+}
+
+.lang-link:hover {
+  opacity: 0.7;
+}
+
+.lang-disabled {
+  opacity: 0.3;
+  cursor: not-allowed;
+  padding: 0.5rem 0.25rem;
+}
+
+/* Mobile view - center everything */
+@media (max-width: 991.98px) {
+  .language-selector {
+    width: 100%;
+    text-align: center;
+  }
+  
+  .language-toggle-all {
+    justify-content: center;
+    padding: 0.5rem 0;
+  }
+}
+</style>
