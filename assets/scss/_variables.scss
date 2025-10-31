@@ -16,9 +16,9 @@ $font-family-sans-serif: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI",
 $font-family-monospace: "JetBrains Mono", "SF Mono", Monaco, "Cascadia Code", "Courier New", monospace;
 
 // Improve readability with better line height and letter spacing
-$line-height-base: 1.6;
-$headings-line-height: 1.3;
-$letter-spacing-base: 0.01em;
+$line-height-base: 1.8;
+$headings-line-height: 1.4;
+$letter-spacing-base: 0.02em;
 
 // Create CSS custom properties for Bootstrap
 :root {
@@ -32,8 +32,34 @@ $letter-spacing-base: 0.01em;
 // Apply better typography
 body {
   font-family: $font-family-sans-serif !important;
-  letter-spacing: 0.01em;
-  line-height: 1.6;
+  letter-spacing: 0.02em;
+  line-height: 1.8;
+}
+
+// Center text blocks and increase spacing
+p, .lead {
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 1.5rem;
+  text-align: justify;
+  hyphens: auto;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+}
+
+// Center content sections like showcase and about
+.rad-showcase__description,
+.rad-about__description,
+.section .lead,
+.section p {
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: justify;
+  hyphens: auto;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
 }
 
 // Ensure all text elements use Inter (but not divs to avoid breaking layout)

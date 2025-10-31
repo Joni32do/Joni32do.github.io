@@ -279,6 +279,12 @@ footer_links .nav-item .nav-link::after {
   .header .navbar-brand span:nth-child(2) {
     color: #fff;
   }
+  
+  // Invert logo (SVG/image) in dark mode
+  .header .navbar-brand img {
+    filter: invert(1) brightness(1.1);
+  }
+
   .header .navbar .nav-item .nav-link::after {
     background-color: #fff;
   }
