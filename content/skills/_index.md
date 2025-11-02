@@ -8,11 +8,11 @@ skill_categories:
     skills:
       - name: "Python"
         level: 80
-        years: "5"
+        years: "6"
         description: "numpy, scikit-learn, PyTorch, matplotlib, gym, pandas"
       - name: "C++"
         level: 60
-        years: "2"
+        years: "4"
         description: "CMake, MPI, Doxygen"
       - name: "Matlab"
         level: 70
@@ -42,8 +42,8 @@ skill_categories:
         description: "Version control, CI/CD, GitHub Actions"
       - name: "LaTeX"
         level: 80
-        years: "5"
+        years: "6"
         description: "Scientific writing, reports, presentations"
 ---
 
-This skills showcase highlights my technical capabilities, from programming languages to architectural patterns and methodologies. The level have to be understood as a heuristic providing relative information. As I'm still a junior engineer, my practical experience is limited. This modesty shall not be confused for lack of experience, therefore I want to refer to my projects instead.
+This skills showcase highlights my technical capabilities, from programming languages to architectural patterns and methodologies. The level have to be understood as a heuristic providing relative information. As I'm still a junior engineer, my practical experience is limited.

@@ -13,7 +13,7 @@ draft = false
     contact_form_message="Nachricht"
     contact_button="Nachricht senden"
     contact_phone_title="Telefon"
-    contact_phone_number="<a href='tel:+555666777'>555 666 777</a>"
+    contact_phone_number="<a href='tel:+4915730701790'>(+49) 157 30701790</a>"
     contact_email_title="E-Mail"
     contact_email_email="jonathanschnitzler@web.de"
     contact_address_title="Adresse"

@@ -6,9 +6,9 @@ draft = false
 
 {{< showcase-section
     title="Welcome"
-    subtitle="to my professional portfolio"
+    subtitle="to my portfolio"
     buttonText="Get In Touch"
-    description="Welcome to my professional portfolio! I'm a passionate in science and computing with expertise in uncertainty quantification. I love creating innovative solutions and solving complex problems. Feel free to explore my work and connect with me through the social links below."
+    description="I'm passionate about engineering and computer science. I love creating innovative solutions and to explore this complex world. Check out my projects and get to know more about me."
     imgSrc="images/showcase/JSchnitzler_Profile.jpg"
     imgScale="0.5"
  >}}
@@ -38,7 +38,7 @@ draft = false
 {{< education-list
     title="Formal Education" >}}
 
-{{< experience-section
+<!-- {{< experience-section
     title="My Professional Journey"
     intro_title="Building Excellence Through Experience"
     intro_description="Throughout my career, I've had the privilege of working with amazing teams and clients, delivering impactful solutions and growing professionally with each project.<br>Here's a glimpse of my professional journey and the experiences that have shaped my expertise." 
@@ -48,7 +48,7 @@ draft = false
     button2_text="My Skills"
     button2_url="/skills"
     hideViewAll="false"
->}}
+>}} -->
 
 {{< experience-list
     title="Experience"
@@ -60,20 +60,3 @@ draft = false
 <!-- 
 {{< testimonial-section
     title="What they say about me" >}} -->
-
-{{< spacer size="large" >}}
-
-## Welcome to My Portfolio
-
-This is the home page of my professional portfolio, where I showcase my skills, experience, and projects. It's empty yet, but tomorrow on the 30th of September I will continue working on this part.
-
-{{< spacer size="small" >}}
-
-{{< text-section
-title="Let's Work Together"
-centered="true"
->}}
-
-I'm always interested in new opportunities and collaborations. Whether you have a project in mind or just want to connect, feel free to reach out!
-
-{{< /text-section >}}
