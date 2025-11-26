@@ -17,11 +17,18 @@ My major in Simulation Technology (SimTech) at the University of Stuttgart is an
   
 to equip students with the skills needed to model, simulate, and analyze complex systems.
 
-
-
 ## A deep dive
 
 For the curious readers I dedicate more blog posts to dive deeper into specific topics. It will summarize core concepts and link to further resources.
+
+### Foundational Lectures (Semster 1 - Semester 4)
+
+#### Lineare Strukture
+Core concepts of linear algebra.
+* Sets, Groups, Vectorspaces, Planes
+* Matrices, Operations (+,*,inv, det) and Algorithms (Gauss)
+* Mappings, bijective (inj.+surj.) + linearity -> Isomorph
+* Special Matrices (Orth., )
 
 
 ## Projects
