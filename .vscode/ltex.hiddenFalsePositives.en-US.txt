@@ -1,0 +1,1 @@
+{"rule":"THE_SUPERLATIVE","sentence":"^\\QObjects, program structure, interface\nLogic, control flow, types & variables, require & ensures\nOOP, data structures, clean code, recursion\nModeling, software engineering, testing\nLambda, streams, weakest precondition (wp) calculus\\E$"}

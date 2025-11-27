@@ -9,14 +9,27 @@ tags:
 
 ## Programmierung und Softwareentwicklung
 
+* Objects, program structure, interface
+* Logic, control flow, types & variables, require & ensures
+* OOP, data structures, clean code, recursion
+* Modeling, software engineering, testing
+* Lambda, streams, weakest precondition (WP) calculus
 
 ## Datenstruktur und Algorithmen
 
+* Counting operations, Landau, tricks (construct. ind., shift, diff)
+* Combinatorics, Stirling, Fibonacci, abstract datatype (ADT)
+* Sequences, lists, trees, sets, dicts
+* Hashing, search, heaps, partition, graphs (bfs, dfs, Dijkstra, Floyd)
+* Greedy, divide et impera, sort (select, bubble, quick, merge, heap)
+* Formal language, grammar, CNF, pumping lemma, abstract machine
+
+## Introduction to Matlab and C++
+
+* a
 
 ## Theoretische Informatik III
 
+* b
 
 ## Computer Vision and Imaging Science
-
-
-## Introduction to Matlab and C++

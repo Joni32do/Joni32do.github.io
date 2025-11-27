@@ -11,6 +11,29 @@ tags:
 ## Experimentalphysik
 
 
+#### Mechanik
+
+* Newtons Laws, frame of reference, stellar
+* Momentum, collisions, work, energy
+* Angular momentum, oscillation, rotation of bodies
+* Fluid, surface tension, pressure
+* Metrology, friction, Fourier
+
+#### Thermodynamic
+
+* Temperature, heat, extension
+* Kinetic theory of gas, diffusion
+* Laws of thermodynamic, Carnot cycle
+* Entropy, real gas, heat transfer
+
+#### Electrodynamics
+
+* Electrostatic, flux, potential
+* Magnetostatic, Lorentz, Ampere's Law
+* Electrodynamic, induction, motor, transformer
+* Capacity, resistance, circuits
+* Maxwell's equations, waves
+
 ## Theoretische Chemie
 
 ---
@@ -20,4 +43,4 @@ tags:
 ## Einführung in die Simulationstechnologie
 
 
-## Modellierung Komplexe Systeme
+## Modellierung Komplexer Systeme

@@ -7,7 +7,7 @@ tags:
   - simtech
 ---
 
-#### Technische Mechanik
+## Technische Mechanik
 
 Core concepts of static and strength of materials. Semester 1 & 2.
 

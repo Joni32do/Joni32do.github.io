@@ -22,7 +22,7 @@ Core concepts of linear algebra. Semester 1.
 ## Analysis
 Four semesters
 
-### I. Existance
+### I. Foundations
 
 
 ### II. Sum
