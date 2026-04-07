@@ -1,23 +1,23 @@
 +++
-title =  "Footer"
+title = "Footer"
 type = "footer"
 draft = false
 +++
 
 
 {{< contact-section
-    title="Reach out" 
+    title="Reach out"
     contact_form_name="Your name"
     contact_form_email="Your e-mail"
     contact_form_message="Your text"
     contact_form_phone="Your phone"
     contact_button="Send message"
     contact_phone_title="Phone"
-    contact_phone_number="<a href='tel:+4915730701790'>(+49) 157 30701790</a>"
+    contact_phone_number="<a href='tel:123456789'>On request</a>"
     contact_email_title="Mail"
     contact_email_email="<a href='mailto:jonathanschnitzler@web.de'>jonathanschnitzler@web.de</a>"
     contact_address_title="Location"
-    contact_address_address="Bretten Kraichgaustr. 4, Germany"
+    contact_address_address="Karlsruhe, Germany"
     form_action="https://formspree.io/f/xovkdgve"
     form_method="POST"
     contact_form_rows="3"

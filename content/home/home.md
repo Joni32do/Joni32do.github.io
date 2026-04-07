@@ -16,7 +16,7 @@ draft = false
 {{< platform-links >}}
     {{< link icon="square-github" url="https://github.com/joni32do" >}}
     {{< link icon="linkedin" url="https://www.linkedin.com/in/jonathan-schnitzler-163715208" >}}
-    {{< link icon="instagram" url="https://www.instagram.com/Joni32_do/" >}}
+    <!-- {{< link icon="instagram" url="https://www.instagram.com/Joni32_do/" >}} -->
     {{< link icon="square-xing" url="https://www.xing.com/profile/Jonathan_Schnitzler057925/web_profiles" >}}
     <!-- {{< link icon="rss" url="/index.xml" >}} -->
     <!-- {{< link icon="square-twitter" url="https://twitter.com/yourusername" >}} -->
